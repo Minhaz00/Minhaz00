@@ -7,9 +7,9 @@
 
 - 👯 I'm looking to collaborate on **Backend, DevOps, NLP**
 
-- 📝 I regularly write articles on [https://minhazjisun.hashnode.dev/](https://minhazjisun.hashnode.dev/)
+- 📝 I regularly write articles on [hashnode](https://minhazjisun.hashnode.dev/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/minhaz-jisun/**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/minhaz-jisun/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
