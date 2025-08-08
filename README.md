@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minhaz</h1>
-<h3 align="center">A recent CS Graduate and Junior Software Engineer. Passionate about on Backend, DevOps, and MLOps workflows.</h3>
+<h3 align="center">A recent CS Graduate and Junior Software Engineer. Passionate about on Backend, DevOps, and MLOps.</h3>
 
 - 🔭 I'm currently working at [Poridhi.io](https://poridhi.io/)
 
