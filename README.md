@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Minhaz Jisun</h1>
+<h1 align="center">Hi 👋, I'm Minhaz</h1>
 <h3 align="center">A recent CS Graduate and Software Engineer passionate about DevOps and Cloud technologies. Focused on Backend, DevOps, and MLOps workflows.</h3>
 
 - 🔭 I'm currently working at [Poridhi.io](https://poridhi.io/)
