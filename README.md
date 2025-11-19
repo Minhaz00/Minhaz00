@@ -11,7 +11,8 @@
 
 - How to reach me [LinkedIn](https://www.linkedin.com/in/minhaz-jisun/)
 
-<h3 align="left">Connect with me:</h3>
+- Connect with me:
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 <a href="https://twitter.com/minhaz_jisun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minhaz_jisun" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammad minhazul alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad minhazul alam" height="30" width="40" /></a>
@@ -150,7 +151,7 @@
 </table>
 
 
-<h2 align="center">GitHub Statistics</h2>
+<h3 align="center">GitHub Statistics</h3>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minhaz00&theme=nightowl" alt="Profile Details" />
